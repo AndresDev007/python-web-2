@@ -11,7 +11,6 @@ TWITCH_URL = "https://twitch.tv/mouredev"
 YOUTUBE_URL = "https://youtube.com/@mouredev"
 YOUTUBE_SECONDARY_URL = "https://youtube.com/@mouredevtv"
 DISCORD_URL = "https://discord.gg/mouredev"
-CODE_CHALLENGES_URL = "https://retosdeprogramacion.com"
 
 # Recursos y más
 BOOK_URL = "https://mouredev.com/libro-git"
@@ -29,3 +28,10 @@ EMAIL = "braismoure@mouredev.com"
 ELGATO_URL = "https://e.lga.to/MoureDev"
 MVP_URL = "https://mvp.microsoft.com/es-es/PublicProfile/5004970"
 GITHUB_STAR_URL = "https://stars.github.com/profiles/mouredev/"
+
+# Cursos
+CODE_CHALLENGES_URL = "https://retosdeprogramacion.com"
+PYTHON_COURSE_URL = "https://mouredev.link/python"
+GIT_COURSE_URL = "https://mouredev.link/git"
+SQL_COURSE_URL = "https://mouredev.link/sql"
+LANGUAGES_COURSE_URL = "https://mouredev.link/lenguajes"

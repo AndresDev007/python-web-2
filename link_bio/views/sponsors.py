@@ -10,17 +10,17 @@ def sponsors() -> rx.Component:
         title("Colaboran"),
         rx.box(
             link_sponsor(
-                "elgato.png",
+                "/elgato.png",
                 const.ELGATO_URL,
                 "Logotipo de Elgato"
             ),
             link_sponsor(
-                "mvp.png",
+                "/mvp.png",
                 const.MVP_URL,
                 "Logotipo de Microsoft MVP"
             ),
             link_sponsor(
-                "githubstar.png",
+                "/githubstar.png",
                 const.GITHUB_STAR_URL,
                 "Logotipo de Github Star"
             ),
