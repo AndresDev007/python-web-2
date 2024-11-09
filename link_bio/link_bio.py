@@ -6,7 +6,7 @@ import link_bio.pages.courses as courses
 
 
 class State(rx.State):
-    pass
+    """Estado de la aplicacion"""
 
 
 
