@@ -50,7 +50,6 @@ BASE_STYLE = {
     },
     rx.link: {
         "text_decoration": "none",
-        "_hover": {}
     }
 }
 

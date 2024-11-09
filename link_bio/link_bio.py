@@ -5,8 +5,10 @@ import link_bio.pages.index as index
 import link_bio.pages.courses as courses
 
 
-# class State(rx.State):
-#     pass
+class State(rx.State):
+    pass
+
+
 
 app = rx.App(
     stylesheets=styles.STYLESHEETS,

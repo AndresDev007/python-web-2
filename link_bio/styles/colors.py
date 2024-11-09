@@ -12,3 +12,6 @@ class TextColor(Enum):
     HEADER = "#F1F2F4"
     BODY = "#C3C7CB"
     FOOTER = "#A3ABB2"
+
+class ColorButton(Enum):
+    BLANCO_TRANSPARENTE = "rgba(255,255,255,0.5)"
